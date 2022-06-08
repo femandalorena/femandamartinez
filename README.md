@@ -6,7 +6,7 @@
    
    You can see some of my finnest web work as student here:
           
-          🍯 Create and participate on grupal polls: (https://choixs.firebaseapp.com/login
+          🍯 Create and participate on grupal polls: https://choixs.firebaseapp.com/login
           
           🐱 Veterinary Shop for different stores: https://vet-website-caa3e.web.app/
           
